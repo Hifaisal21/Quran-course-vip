@@ -1,0 +1,101 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://iTbV1SXC6ANHg4F:rKdW08KwVFnJ09j@localhost:58223/storage/emulated/0/surah.html/YouTubecourse.html/index.html
+Subject: Quran Learning Page
+Date: Sat, 28 Dec 2024 20:36:28 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--kkPvKROxyL2FS9fJnaA1CXop0bbxgby9npjtOlPW3S----"
+
+
+------MultipartBoundary--kkPvKROxyL2FS9fJnaA1CXop0bbxgby9npjtOlPW3S----
+Content-Type: text/html
+Content-ID: <frame-457CD00B2C329F09DD40D47B11E6571D@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://iTbV1SXC6ANHg4F:rKdW08KwVFnJ09j@localhost:58223/storage/emulated/0/surah.html/YouTubecourse.html/index.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-aef1977d-8ef3-4925-937b-54416ab4d7c3@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quran Learning Page</title>
+    
+</head>
+<body>
+    <div class="container">
+        <h1>क़ुरान शरीफ सीखें और सवाब कमाएं</h1>
+
+        <div class="motivational">
+            <p>क़ुरान सीखना और सिखाना हर मुसलमान का फर्ज़ है।</p>
+            <p>अल्लाह के रसूल (ﷺ) ने फरमाया: "तुममें सबसे अच्छा वो है जो क़ुरान सीखे और दूसरों को सिखाए।"</p>
+            <p><strong>जो क़ुरान नहीं सिखता:</strong> उसकी क़ब्र अंधेरी होगी और हश्र के मैदान में वह अज़ाब का सामना करेगा।</p>
+        </div>
+
+        <div class="ayat">
+            <h2>क़ुरान की आयत:</h2>
+            <p><strong>وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا</strong></p>
+            <p>"और क़ुरान को अच्छी तरह से पढ़ो।" (सूरह अल-मुज़म्मिल: 4)</p>
+        </div>
+
+        <div class="info">
+            <p><strong>हमारे पास 5000 से अधिक बच्चे क़ुरान शरीफ सीख चुके हैं।</strong> अब आपकी बारी है।</p>
+        </div>
+
+        <div class="rating">
+            <h2>Students' Feedback:</h2>
+            <p>हमारे कोर्स को <span class="stars">★★★★☆</span> (4.5 स्टार) की रेटिंग मिली है।</p>
+            <p>1000 बच्चों ने कोर्स की सराहना की है।</p>
+        </div>
+
+        <div class="timer">
+            <p>शुरू करने के लिए आपके पास केवल <span id="timer">0:59:56</span> का समय बचा है!</p>
+        </div>
+
+        <div class="button-container">
+            <a class="button" id="start-btn" href="https://wa.me/7300655957?text=%E0%A4%AE%E0%A5%88%E0%A4%82%20%E0%A4%95%E0%A4%BC%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A8%20%E0%A4%B8%E0%A4%BF%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%A4%E0%A5%88%E0%A4%AF%E0%A4%BE%E0%A4%B0%20%E0%A4%B9%E0%A5%82%E0%A4%81%E0%A5%A4" target="_blank">Start Quran Learning</a>
+        </div>
+
+        <div class="views">
+            <p><strong>Views:</strong> <span id="views-count">2000</span></p>
+        </div>
+    </div>
+
+    
+
+</body></html>
+------MultipartBoundary--kkPvKROxyL2FS9fJnaA1CXop0bbxgby9npjtOlPW3S----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-aef1977d-8ef3-4925-937b-54416ab4d7c3@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; background-color: rgb(249, 249, 249); color: rgb(51, 51, 51); }
+
+.container { max-width: 900px; margin: 50px auto; padding: 20px; background: rgb(255, 255, 255); border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 10px; text-align: center; }
+
+h1 { font-size: 2rem; color: rgb(44, 62, 80); }
+
+.motivational { margin: 20px 0px; font-size: 1.2rem; color: rgb(85, 85, 85); }
+
+.ayat { background: rgb(240, 248, 255); padding: 20px; margin: 20px 0px; border-left: 5px solid rgb(52, 152, 219); text-align: left; border-radius: 5px; }
+
+.ayat h2 { color: rgb(41, 128, 185); }
+
+.info { background: rgb(223, 249, 251); padding: 15px; border-radius: 5px; margin: 20px 0px; font-size: 1.1rem; }
+
+.rating { margin: 20px 0px; padding: 15px; background: rgb(247, 230, 255); border-radius: 5px; border-left: 5px solid rgb(142, 68, 173); }
+
+.rating h2 { color: rgb(142, 68, 173); }
+
+.stars { color: rgb(243, 156, 18); font-size: 1.5rem; }
+
+.timer { margin: 20px 0px; font-size: 1.5rem; color: rgb(231, 76, 60); }
+
+.button-container { margin: 20px 0px; }
+
+.button { padding: 15px 30px; background: rgb(40, 167, 69); color: rgb(255, 255, 255); font-size: 1.2rem; border: none; border-radius: 8px; cursor: pointer; text-decoration: none; }
+
+.button:hover { background: rgb(33, 136, 56); }
+
+.views { margin-top: 20px; font-size: 1.2rem; color: rgb(85, 85, 85); }
+------MultipartBoundary--kkPvKROxyL2FS9fJnaA1CXop0bbxgby9npjtOlPW3S------
